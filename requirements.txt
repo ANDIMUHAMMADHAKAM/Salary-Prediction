@@ -2,6 +2,9 @@ streamlit==1.37.1
 numpy>=1.26.0
 setuptools>=65.0.0
 wheel>=0.36.2
+python-dateutil==2.8.2
+distutils-pytest==0.2.1
+
 pickleshare==0.7.5
 gspread==6.1.2
 gunicorn==23.0.0
